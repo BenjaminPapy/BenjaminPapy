@@ -6,16 +6,16 @@ Right now I’m preparing my professional title :coffee:
 
 ## Languages and technologies used :
 <p><a href="https://developer.mozilla.org/fr/docs/Web/HTML" >
-    <img height="40px" width="40px"alt="HTML" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png" height="50px"
+    <img height="40px" width="40px"alt="HTML LOGO" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png" height="50px"
   </a>
 <a href="https://developer.mozilla.org/fr/docs/Web/CSS" >
-    <img height="40px" width="40px"alt="HTML" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_960_720.png" height="50px"
+    <img height="40px" width="40px"alt="CSS LOGO" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_960_720.png" height="50px"
   </a>
 <a href="https://www.php.net/manual/fr/intro-whatis.php" >
-    <img height="40px" width="40px"alt="HTML" src="https://cdn.imgbin.com/12/2/24/imgbin-php-java-initiation-iy1tsmB5Am9syCfs69ixFA5R4.jpg" height="50px"
+    <img height="40px" width="40px"alt="PHP LOGO" src="https://icon-library.com/images/php-icon-png/php-icon-png-7.jpg" height="50px"
   </a>
 <a href="https://symfony.com/" >
-    <img height="40px" width="40px"alt="SYMFONY" src="https://seeklogo.com/images/S/symfony-logo-AA34C8FC16-seeklogo.com.png" height="50px"
+    <img height="40px" width="40px"alt="SYMFONY LOGO" src="https://cdn.worldvectorlogo.com/logos/symfony.svg" height="50px"
   </a>
  </p>
   
