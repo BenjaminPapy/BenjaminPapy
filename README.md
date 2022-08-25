@@ -29,7 +29,9 @@ Right now I’m preparing my professional title :coffee:
   <a href="https://www.opquast.com/" >
     <img height="40px" width="40px"alt="TP" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq7slYH074nOoxOqbJfdgQFo7bgecKuneEBbfZLUhPMNxUOrw5_eW-q-jDxzAerNfl4WA&usqp=CAU"
   </a>
-  <a href="https://www.francecompetences.fr/recherche/rncp/31114/" >
-    <img height="40px" width="40px"alt="OPQUAST" src="https://static.data.gouv.fr/avatars/c1/4ae4f0ae27471684be669c5dce161a-500.png"
-  </a>
+  <!--
+      <a href="https://www.francecompetences.fr/recherche/rncp/31114/" >
+        <img height="40px" width="40px"alt="OPQUAST" src="https://static.data.gouv.fr/avatars/c1/4ae4f0ae27471684be669c5dce161a-500.png"
+      </a>
+  -->
 </p>
