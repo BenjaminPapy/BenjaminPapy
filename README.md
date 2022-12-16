@@ -1,8 +1,8 @@
 # Hey, welcome! :computer::wave: 
 
-### I am Benjamin Papy, I am 23 years old and I just finished my training at O'clock as a web integrator with a specialization on symfony. 🐘
+### I am Benjamin Papy, I am 23 years old and I just finished my training at O'clock as a web developer with a specialization on symfony. 🐘
 
-Right now I’m preparing my professional title :coffee:
+I just graduated and right now am currently looking for my first job :coffee:
 
 ## Languages and technologies used :
 <p><a href="https://developer.mozilla.org/fr/docs/Web/HTML" >
