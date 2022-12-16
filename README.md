@@ -13,7 +13,7 @@ I just graduated and right now am currently looking for my first job :coffee:
         <img height="43px" width="43px"alt="CSS LOGO" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_960_720.png" height="50px"
     </a>
     <a href="https://developer.mozilla.org/fr/docs/Web/JavaScript">
-        <img height="40px" width="40px"alt="JS LOGO" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.citypng.com%2Fphoto%2F26174%2Fjs-javascript-round-logo-icon-png&psig=AOvVaw1BILzkhM8NLltnrNfiLl55&ust=1671264786758000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCNCthtHY_fsCFQAAAAAdAAAAABAU" height="50px"
+        <img height="40px" width="40px"alt="JS LOGO" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_960_720.png" height="50px"
     </a> 
     <a href="https://www.php.net/manual/fr/intro-whatis.php">
         <img height="40px" width="40px"alt="PHP LOGO" src="https://icon-library.com/images/php-icon-png/php-icon-png-7.jpg" height="50px"
